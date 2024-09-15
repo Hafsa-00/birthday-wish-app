@@ -94,8 +94,8 @@ export default function BirthdayWish() {
           {/* Card header with birthday message */}
           <CardHeader className="text-center">
             <CardTitle className="text-4xl font-bold text-black">Happy 20th Birthday!</CardTitle>
-            <CardDescription className="text-2xl font-semibold text-gray-600">Asharib Ali</CardDescription>
-            <p className="text-lg text-gray-500">September 4th</p>
+            <CardDescription className="text-2xl font-semibold text-gray-600">Hafsa</CardDescription>
+            <p className="text-lg text-gray-500">June 4th</p>
           </CardHeader>
           {/* Card content with candles and balloons */}
           <CardContent className="space-y-6 text-center">
